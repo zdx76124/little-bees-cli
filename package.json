@@ -1,6 +1,6 @@
 {
   "name": "little-bees-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple CLI for serve and build web",
   "main": "index.js",
   "files": [
@@ -27,5 +27,9 @@
     "inquirer": "^8.2.4",
     "isbinaryfile": "^5.0.0",
     "javascript-stringify": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdx76124/little-bees-cli.git"
   }
 }
